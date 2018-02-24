@@ -1,0 +1,6 @@
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\bin\Debug\AddTheDigits.exe.config
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\bin\Debug\AddTheDigits.exe
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\bin\Debug\AddTheDigits.pdb
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\obj\Debug\AddTheDigits.csprojResolveAssemblyReference.cache
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\obj\Debug\AddTheDigits.exe
+c:\users\x220 tablet\documents\visual studio 2017\Projects\AddTheDigits\AddTheDigits\obj\Debug\AddTheDigits.pdb
