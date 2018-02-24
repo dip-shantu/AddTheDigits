@@ -11,7 +11,7 @@ Count the number of steps required to find a single digit number.
 5. Press "Start" button on solution.
 
 #Added some number in Input.txt file. 
-Path: (AddTheDigits/AddTheDigits/Input.txt)
+Path: (/AddTheDigits/Input.txt)
 
 #Some scenarios:
 1. Empty file case.
